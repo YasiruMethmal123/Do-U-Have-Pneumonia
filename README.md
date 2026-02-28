@@ -70,8 +70,8 @@ Chectdetect/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/pneumoscan-ai.git
-cd pneumoscan-ai
+https://github.com/YasiruMethmal123/Do-U-Have-Pneumonia.git
+cd Do-U-Have-Pneumonia
 ```
 
 ### 2. Create and activate virtual environment
